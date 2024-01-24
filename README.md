@@ -1,4 +1,6 @@
 # Business-Insight-360
+# Live Dashboard link- 
+https://app.powerbi.com/view?r=eyJrIjoiZjI5N2JkMjMtMTY0Yi00NDc0LWFhNjgtZmE0ZWExMjIwYzA3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 # AtliQ Hardware 
 A growing company, faced a big challenge. They had lots of data in different places, like SQL databases and CSV files, and they needed a way to make sense of it all.
 
